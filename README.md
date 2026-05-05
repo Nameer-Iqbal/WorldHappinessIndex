@@ -1,8 +1,8 @@
-# 🌍 World Happiness Index — Data Visualizations (2005–2025)
+# World Happiness Index — Data Visualizations (2005–2025)
 
 A collection of Python data visualizations built on the **World Happiness Report** dataset spanning 2005 to 2025. Each script is self-contained and produces a high-quality chart.
 
-## 📊 Visualizations
+## Visualizations
 
 | Script | Output | Description |
 |---|---|---|
@@ -14,7 +14,7 @@ A collection of Python data visualizations built on the **World Happiness Report
 | `streamgraph_happiness.py` | `streamgraph_United_States.png` | Stacked area chart of happiness drivers over time |
 | `pca_happiness_projection.py` | `pca_happiness_projection.png` | PCA 2D projection clustering countries by socioeconomic profile |
 
-## 🗂️ Dataset
+## Dataset
 
 `world_happiness_report_2005_2025.csv` — contains the following columns:
 
@@ -27,7 +27,7 @@ A collection of Python data visualizations built on the **World Happiness Report
 - `explained_corruption`
 - `dystopia_plus_residual`
 
-## 🚀 Setup
+## Setup
 
 ```bash
 pip install pandas matplotlib seaborn plotly scipy scikit-learn folium
