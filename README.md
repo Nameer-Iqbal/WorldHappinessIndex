@@ -27,6 +27,7 @@ A collection of Python data visualizations built on the **World Happiness Report
 - `explained_corruption`
 - `dystopia_plus_residual`
 
+
 ## Setup
 
 ```bash
